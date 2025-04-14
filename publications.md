@@ -47,16 +47,16 @@
   <tbody>
     <tr>
       <td>
-        <strong><a href="https://github.com/ajsteinmetz/short-note-qgp">Steinmetz, A.</a></strong>, Rafelski, J. "Short Note on Spin Magnetization in QGP." <i>Eur. Phys. J. Spec. Top.</i> (2025). <a href="https://doi.org/10.1140/epjs/s11734-025-01625-9">10.1140/epjs/s11734-025-01625-9</a>
+        SOARES, FABIANO SILVA ; RANGEL DE SOUZA, ANA LÍDIA SOARES ; DE SOUZA, SUZANE ARIÁDINA ; DE SOUZA VESPOLI, LUCIANO ; PINTO, VITOR BATISTA ; MATIELLO, LUCIA ; da Silva, Felipe Rodrigues ; Menossi, Marcelo ; DE SOUZA FILHO, GONÇALO APOLINÁRIO . Fine-Tuning of Arabidopsis thaliana Response to Endophytic Colonization by Gluconacetobacter diazotrophicus PAL5 Revealed by Transcriptomic Analysis. PLANTS, v. 13, p. 1719, 2024.<a href="http://dx.doi.org/10.3390/plants13131719">10.3390/plants13131719</a>
       </td>
       <td>
         <div class="badge-box">
-          <span class="__dimensions_badge_embed__ small-dimensions-badge" data-doi="10.1140/epjs/s11734-025-01625-9"></span>
+          <span class="__dimensions_badge_embed__ small-dimensions-badge" data-doi="10.3390/plants13131719"></span>
         </div>
       </td>
       <td>
         <div class="badge-box">
-          <div class="altmetric-embed donut-badge" data-doi="10.1140/epjs/s11734-025-01625-9"></div>
+          <div class="altmetric-embed donut-badge" data-doi="10.3390/plants13131719"></div>
         </div>
       </td>
     </tr>
