@@ -62,61 +62,61 @@
     </tr>
     <tr>
       <td>
-        Birrell, J., Formanek, M., <strong><a href="https://github.com/ajsteinmetz/fermi-distribution">Steinmetz, A.</a></strong>, Yang, C. T., Rafelski, J. "Fermi-Dirac Integrals in Degenerate Regimes: Novel Asymptotic Expansion." <i>Int. J. Theor. Phys.</i> 63, 163 (2024). <a href="https://doi.org/10.1007/s10773-024-05695-8">10.1007/s10773-024-05695-8</a>
+        HEBERLE, HENRY ; MEIRELLES, GABRIELA VAZ ; da Silva, Felipe R ; TELLES, GUILHERME P ; MINGHIM, ROSANE . InteractiVenn: a web-based tool for the analysis of sets through Venn diagrams. BMC Bioinformatics, v. 16, p. 169, 2015. <a href="http://dx.doi.org/10.1186/s12859-015-0611-3">10.1186/s12859-015-0611-3</a>
       </td>
       <td>
         <div class="badge-box">
-          <span class="__dimensions_badge_embed__ small-dimensions-badge" data-doi="10.1007/s10773-024-05695-8"></span>
+          <span class="__dimensions_badge_embed__ small-dimensions-badge" data-doi="10.1186/s12859-015-0611-3"></span>
         </div>
       </td>
       <td>
         <div class="badge-box">
-          <div class="altmetric-embed donut-badge" data-doi="10.1007/s10773-024-05695-8"></div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Rafelski, J., <strong><a href="https://github.com/ajsteinmetz/neutrino-transition-moments">Steinmetz, A.</a></strong>, Yang, C. T. "Dynamic fermion flavor mixing through transition dipole moments." <em>IJMPA</em> 38.31 (2023): 2350163. <a href="https://doi.org/10.1142/S0217751X23501634">10.1142/S0217751X23501634</a>
-      </td>
-      <td>
-        <div class="badge-box">
-          <span class="__dimensions_badge_embed__ small-dimensions-badge" data-doi="10.1142/S0217751X23501634"></span>
-        </div>
-      </td>
-      <td>
-        <div class="badge-box">
-          <div class="altmetric-embed donut-badge" data-doi="10.1142/S0217751X23501634"></div>
+          <div class="altmetric-embed donut-badge" data-doi="10.1186/s12859-015-0611-3"></div>
         </div>
       </td>
     </tr>
     <tr>
       <td>
-        <strong><a href="https://github.com/ajsteinmetz/plasma-partition">Steinmetz, A.</a></strong>, Yang, C. T., Rafelski, J. "Matter-antimatter origin of cosmic magnetism." <em>Phys. Rev. D</em> 108 (2023): 123522. <a href="https://doi.org/10.1103/PhysRevD.108.123522">10.1103/PhysRevD.108.123522</a>
+       Simpson, AJG ; Reinach, FC ; Arruda, P ; several-others ; da Silva, F. R. ; and others . The genome sequence of the plant pathogen Xylella fastidiosa. Nature (London), v. 406, p. 151-157, 2000. <a href="http://dx.doi.org/10.1038/35018003">10.1038/35018003</a>
       </td>
       <td>
         <div class="badge-box">
-          <span class="__dimensions_badge_embed__ small-dimensions-badge" data-doi="10.1103/PhysRevD.108.123522"></span>
+          <span class="__dimensions_badge_embed__ small-dimensions-badge" data-doi="10.1038/35018003"></span>
         </div>
       </td>
       <td>
         <div class="badge-box">
-          <div class="altmetric-embed donut-badge" data-doi="10.1103/PhysRevD.108.123522"></div>
+          <div class="altmetric-embed donut-badge" data-doi="10.1038/35018003"></div>
         </div>
       </td>
     </tr>
     <tr>
       <td>
-        Formanek, M., <strong>Steinmetz, A.</strong>, Rafelski, J. "Motion of classical charged particles with magnetic moment in external plane-wave electromagnetic fields." <em>Phys. Rev. A</em> 103.5 (2021): 052218. <a href="https://doi.org/10.1103/PhysRevA.103.052218">10.1103/PhysRevA.103.052218</a>
+        Van Sluys, MAV ; Oliveira, MC ; Monteiro-Vitorello, CB ; Miyaki, CY ; Furlan, LR ; Carmargo, LEA ; Silva, ACR ; Moon, DH ; Takita, MA ; Lemos, EGM ; Machado, MA ; Ferro, MI ; da Silva, F. R. ; Goldman, MHS ; Goldman, GH ; Lemos, MVF ; El-Dorry, H ; Tsai, SM ; Carrer, H ; Carraro, DM ; et.al . Comparative analyses of the complete genome sequences of Pierce's disease and citrus variegated chlorosis strains of Xylella fastidiosa. Journal of Bacteriology, v. 185, n.3, p. 1018-1026, 2003 <a href="http://dx.doi.org/10.1128/jb.185.3.1018-1026.2003">10.1128/jb.185.3.1018-1026.2003</a>
       </td>
       <td>
         <div class="badge-box">
-          <span class="__dimensions_badge_embed__ small-dimensions-badge" data-doi="10.1103/PhysRevA.103.052218"></span>
+          <span class="__dimensions_badge_embed__ small-dimensions-badge" data-doi="10.1128/jb.185.3.1018-1026.2003"></span>
         </div>
       </td>
       <td>
         <div class="badge-box">
-          <div class="altmetric-embed donut-badge" data-doi="10.1103/PhysRevA.103.052218"></div>
+          <div class="altmetric-embed donut-badge" data-doi="10.1128/jb.185.3.1018-1026.2003"></div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+       VETORE, A. ; SILVA, F. ; KEMPER, E. ; SOUZA, G. ; SILVA, A. ; AL, E. ; ARRUDA, P. . Analysis and Functional Annotation of an Expressed Sequence Tag Collection for Tropical Crop Sugarcane. Genome Research, v. 13, p. 2725-2735, 2003 <a href="http://dx.doi.org/10.1101/gr.1532103">10.1101/gr.1532103</a>
+      </td>
+      <td>
+        <div class="badge-box">
+          <span class="__dimensions_badge_embed__ small-dimensions-badge" data-doi="10.1101/gr.1532103"></span>
+        </div>
+      </td>
+      <td>
+        <div class="badge-box">
+          <div class="altmetric-embed donut-badge" data-doi="10.1101/gr.1532103"></div>
         </div>
       </td>
     </tr>
