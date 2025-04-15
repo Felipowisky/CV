@@ -1,8 +1,8 @@
-# ajsteinmetz.github.io
-My personal website with thoughts on math and physics.
+# Felipowisky.github.io
+My personal website, forked (copied) from https://github.com/ajsteinmetz/ajsteinmetz.github.io 
 
-https://ajsteinmetz.github.io/
+https://Felipowisky.github.io/
 
-Based on Jekyll's minima theme.
+Based (as the original ajsteinmetz) on Jekyll's minima theme.
 
 https://github.com/jekyll/minima
